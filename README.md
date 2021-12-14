@@ -1,4 +1,4 @@
-# dio-desafio-primeiro-repositorio
+# dio-desafio-github-primeiro-repositorio
 
 ### Objetivo
 
